@@ -1,2 +1,2 @@
-# mannireschool
+# mui-example
 Created with CodeSandbox
